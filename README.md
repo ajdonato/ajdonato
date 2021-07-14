@@ -3,6 +3,8 @@
 
 - :seedling: No momento estou aprendendo: **JavaScript, React JS, Node.js**
 
+- 👨‍💻 Meus projetos estão disponiveis em [amazon.dev.br](https://amazon.dev.br)
+
 - :speech_balloon: Você pode me perguntar sobre: **Desenvolvimento front-end e suas tecnologias**
 
 - :love_letter: Como você pode entrar em contato: **ajd.oliveira@gmail.com**
@@ -19,3 +21,10 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajdonato&show_icons=true&theme=default&locale=en" alt="ajdonato" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajdonato&show_icons=true&theme=default&locale=en&layout=compact" alt="ajdonato" /></p>
+
+<p align="center">
+<a href="https://twitter.com/_ajdonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/ajdonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://fb.com/amazondonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/amazondonato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
